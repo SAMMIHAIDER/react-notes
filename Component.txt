@@ -1,0 +1,16 @@
+Component 👍
+              1>- A piece of code that can reuse 
+              2>- such as function
+              3>- Most powerful then simple function 
+              4>- header and footer is best example
+
+              
+ Two type of Component 🎈   
+                           1>- functional Component
+                           2>- Class Component  
+                           3>- App.js file itself a Component   
+                           4>- you can make component in same file such as file name "app.js" 
+                           5>- you can make a component in different file 'file name your choice' 🎈
+
+😀 yon can used one component into another component but you cannot  access it outside of component 😀  
+
