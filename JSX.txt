@@ -1,0 +1,8 @@
+ jsx stands for 👎
+                   javaScript xml 
+                   
+why need JSX ?
+               Because we cannot used html and javaScript combine
+                after release JSX then we used to combine javaScript and JSX 
+
+1>-  Using normally html tag  in react with the help of JSX 📝
