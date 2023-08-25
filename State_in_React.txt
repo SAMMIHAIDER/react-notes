@@ -1,0 +1,10 @@
+What is State in React ?
+                         💖 State in react is basically Object 
+                          you can store data in react State
+                          such as you can store data in a variable💖
+
+why used State in React ?
+                           💖using a variable in react you cannot update any value 🎈
+                           💖using State in react that you can update any value 🎈
+                           💖 State is only used in React and variable is used in javascript and etc
+                           💖 React only understand "state" and "props" 
