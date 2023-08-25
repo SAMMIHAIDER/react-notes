@@ -1,0 +1,23 @@
+make function in react 📝
+                          when we call a function in react using only function name 
+                           using curly brace when we call a function in react js 🎈
+                           not using a small brace in react when we used onclick event in react 💖
+                           not using a variable in react js is best way
+such as 
+           function apple(){
+            alert("hello");
+           }
+
+<button onclick={apple}><button/>
+
+
+💖 not using a small brace in react when we used onclick event in react 💖
+💖   when you using this then function call automatically 🎈
+                |
+                |
+ function apple(){
+            alert("hello");
+           }
+
+<button onclick={apple()}><button/>
+    
