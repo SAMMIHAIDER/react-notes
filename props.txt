@@ -1,0 +1,4 @@
+what is props ?
+                💖 we pass  props in component such as we pass a parameter in function
+                 called props
+                💖 props full meaning is "properties"
