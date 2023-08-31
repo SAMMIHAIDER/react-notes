@@ -1,0 +1,100 @@
+0>💖Introduction to React.js:
+        |
+A JavaScript library for building user interfaces.
+Developed by Facebook.
+
+1>💖Components:
+        |
+UI elements broken down into reusable building blocks.
+Can be class components or functional components.
+
+2>💖JSX (JavaScript XML):
+        |
+Syntax extension for JavaScript, allows writing HTML-like code.
+JSX elements represent React elements.
+
+3>💖Rendering:
+        |
+React updates the DOM efficiently through a process called "reconciliation."
+Virtual DOM helps optimize rendering.
+
+4>💖Props (Properties):
+        |
+Data passed from parent to child components.
+Immutable and used to make components reusable.
+
+5>💖State:
+        |
+Internal data storage for components.
+Managed within component's class state or using the useState hook.
+
+6>💖Lifecycle Methods (for class components):
+        |
+componentDidMount, componentDidUpdate, componentWillUnmount, etc.
+Used to manage component behavior during different stages.
+
+7>💖Hooks (for functional components):
+        |
+useState, useEffect, useContext, etc.
+Provide a way to add state and lifecycle features to functional components.
+       
+8>💖Event Handling:
+         |  
+React handles events using synthetic event system.
+Event handling is similar to standard HTML events.
+       
+9>💖Conditional Rendering:
+         |
+Rendering components conditionally based on certain conditions.
+       
+10>💖Lists and Keys:
+         |
+Rendering arrays of data using the map function.
+Using unique keys to help React identify items in lists.
+       
+11>💖Forms and Controlled Components:
+         |
+Managing form inputs and their values using state.
+Controlled components are linked to state for two-way data binding.
+       
+12>💖Styling:
+         |
+Styles can be inline, via CSS classes, or through third-party libraries.
+React supports CSS-in-JS libraries for dynamic styling.
+       
+13>💖Props Validation:
+         |
+PropTypes (class components) or TypeScript interfaces (optional) for validating prop types.
+       
+14>💖Context API:
+         |
+Provides a way to share data across components without manually passing props.
+       
+15>💖Component Composition:
+         |
+Building complex UI by combining smaller components.
+       
+16>💖Higher-Order Components (HOCs):
+         |
+A pattern to enhance or modify components by wrapping them.
+       
+17>💖Render Props:
+         |
+A technique to share code between components using a prop whose value is a function.
+       
+18>💖React Router:
+         |
+Library for handling client-side routing in single-page applications.
+       
+19>💖Hooks Customization:
+         |
+Creating custom hooks to encapsulate logic and share it between components.
+       
+20>💖Error Handling:
+         |
+Using try and catch to manage errors in components.
+React's Error Boundaries for handling errors in rendering.
+       
+21>💖Optimization Techniques:
+         |
+Memoization, shouldComponentUpdate, and React's PureComponent for performance optimization.
