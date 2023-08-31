@@ -2,3 +2,33 @@ what is props ?
                 💖 we pass  props in component such as we pass a parameter in function
                  called props
                 💖 props full meaning is "properties"
+
+
+
+Props Question 💖
+
+2>💖  What are props in React, and how are they used?
+3>💖  How do you pass data from a parent component to a child component using props?
+4>💖  Can you explain the difference between state and props in React?
+5>💖  Are props mutable? Can a component modify its own props?
+6>💖  What is the purpose of using defaultProps in a React component?
+7>💖  How do you handle default values for props in a functional component?
+8>💖  What happens if a prop is not explicitly defined when rendering a component?
+9>💖  How do you access and use props within a class component?
+10>💖 How do you access and use props within a functional component?
+11>💖 Is it possible to destructure props directly in the function parameters?
+12>💖 Can you pass props to both built-in HTML elements and custom React components?
+13>💖 How can you pass multiple props to a component?
+14>💖 What is prop drilling, and how can it be mitigated?
+15>💖 Explain the concept of children props (using props.children) and provide an example.
+16>💖 How do you validate props using PropTypes?
+17>💖 What is the purpose of PropTypes in React, and how do they help in development?
+18>💖 Can you give an example of using default props with functional components?
+19>💖 How do you update props in a child component when the parent component's state changes?
+20>💖 What is the significance of the spread operator (...props) when passing props to a component?
+21>💖 Is it possible to change props directly within a child component? Why or why not?
+22>💖 How do you pass event handlers as props to child components?
+23>💖 Explain the role of key props when rendering lists of components.
+24>💖 What happens if you try to modify a prop passed to a child component? Why does React discourage this?
+25>💖 How can you conditionally render components based on the values of props?
+26>💖 How do you avoid unnecessary re-renders caused by props using React.memo?
