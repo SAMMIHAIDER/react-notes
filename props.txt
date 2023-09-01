@@ -1,15 +1,22 @@
-what is props ?
-                💖 we pass  props in component such as we pass a parameter in function
+1>what is props ?
+                💖 we pass props in component such as we pass a parameter in function
                  called props
                 💖 props full meaning is "properties"
+                💖 "properties" help make component more dynamic
+1>Use of props ?
+                💖props are passed to component in  the way  similar to that of "html tag attribute"
+                💖props in a component are read only and cannot be changed
 
 
+5>💖  Are props mutable? Can a component modify its own props?
+Ans:🤎
+     props are immutable mean ==> "props in a component are read only and cannot be changed or modify"
 
 Props Question 💖
 
-2>💖  What are props in React, and how are they used?
-3>💖  How do you pass data from a parent component to a child component using props?
-4>💖  Can you explain the difference between state and props in React?
+2>💖  What are props in React, and how are they used? ✔
+3>💖  How do you pass data from a parent component to a child component using props? ✔
+4>💖  Can you explain the difference between state and props in React? 
 5>💖  Are props mutable? Can a component modify its own props?
 6>💖  What is the purpose of using defaultProps in a React component?
 7>💖  How do you handle default values for props in a functional component?
