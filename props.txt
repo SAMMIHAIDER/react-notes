@@ -8,17 +8,38 @@
                 💖props in a component are read only and cannot be changed
 
 
-5>💖  Are props mutable? Can a component modify its own props?
+3>💖  Are props mutable? Can a component modify its own props?
 Ans:🤎
      props are immutable mean ==> "props in a component are read only and cannot be changed or modify"
+
+4>💖 What is the purpose of using defaultProps in a React component?
+   Ans:🤎
+            
+ React mein, default props ka istemal kiye jate hain taki component ke liye agar koi
+  specific prop provide nahi hoti to default value istemal ho. Yeh teen important points hain:
+
+Default Props:🤎
+               Default props React mein component ke liye default values provide karte hain.
+
+Tayyari:🤎
+         Default props ko tayyar karte waqt, aap apne component class or function component mein defaultProps object bana sakte hain, jisme har prop ke liye default value specify ki jati hai.
+
+Istemal:🤎
+         Agar kisi prop ko parent component se provide nahi kiya jata to React defaultProps se default value istemal karta hai.
+
+
+
+
+
+
 
 Props Question 💖
 
 2>💖  What are props in React, and how are they used? ✔
 3>💖  How do you pass data from a parent component to a child component using props? ✔
-4>💖  Can you explain the difference between state and props in React? 
-5>💖  Are props mutable? Can a component modify its own props?
-6>💖  What is the purpose of using defaultProps in a React component?
+4>💖  Can you explain the difference between state and props in React? ✔
+5>💖  Are props mutable? Can a component modify its own props?✔
+6>💖  What is the purpose of using defaultProps in a React component?✔
 7>💖  How do you handle default values for props in a functional component?
 8>💖  What happens if a prop is not explicitly defined when rendering a component?
 9>💖  How do you access and use props within a class component?
