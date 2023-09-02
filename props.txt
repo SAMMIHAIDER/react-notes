@@ -1,18 +1,18 @@
-1>what is props ?
+1>✔what is props ?✔
                 💖 we pass props in component such as we pass a parameter in function
                  called props
                 💖 props full meaning is "properties"
                 💖 "properties" help make component more dynamic
-1>Use of props ?
+1>✔Use of props ?✔
                 💖props are passed to component in  the way  similar to that of "html tag attribute"
                 💖props in a component are read only and cannot be changed
 
 
-3>💖  Are props mutable? Can a component modify its own props?
+3> ✔ Are props mutable? Can a component modify its own props?✔
 Ans:🤎
      props are immutable mean ==> "props in a component are read only and cannot be changed or modify"
 
-4>💖 What is the purpose of using defaultProps in a React component?
+4>✔ What is the purpose of using defaultProps in a React component?✔
    Ans:🤎
             
  React mein, default props ka istemal kiye jate hain taki component ke liye agar koi
@@ -26,6 +26,32 @@ Tayyari:🤎
 
 Istemal:🤎
          Agar kisi prop ko parent component se provide nahi kiya jata to React defaultProps se default value istemal karta hai.
+
+5>✔ Is it possible to destructure props directly in the function parameters ???????????????
+ Ans:🤎
+    Yes, it is possible to destructure props directly in the function parameters when defining a
+     React functional component. Here's an example:
+
+
+import React from 'react';
+
+function MyComponent({ prop1, prop2, prop3 }) {
+  // You can directly use prop1, prop2, and prop3 here
+  return (
+    <div>
+      <p>{prop1}</p>
+      <p>{prop2}</p>
+      <p>{prop3}</p>
+    </div>
+  );
+}
+ 👌 In the above code, MyComponent is a functional component, 
+  and it directly destructures prop1, prop2, and prop3 from the props object in its parameter list.
+   This is a common and concise way to access props in React functional components,.👌
+
+
+
+
 
 
 
