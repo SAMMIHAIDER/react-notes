@@ -1,0 +1,34 @@
+
+total life cycle divided into three part
+           1> mounting
+           2> updating
+           3> removing
+
+
+1>💖 Mounting
+             work such as a uploading and four predefine component are used in mounting
+             which component are used for execute to manipulate
+ 1> Constructor()
+ 2> Static
+ 3> Render()
+ 4> ComponentDidMount()
+
+
+  1> Constructor
+                  are used in Class Component 
+                  and its execute first when class component call 
+                  and supper() method are used into Constructor 
+  supper()
+            is used to call parent Constructor
+
+ 3> Render()
+             render method are only used in Class Component
+             render method are used anythings for execute to represented
+             my all html code into render method
+             when we any change into "state or props" then render() method itself re-rendering
+             we cannot update render() method "react.js" automatically update
+
+ 4> ComponentDidMount()
+                        We using ComponentDidMount for calling API
+                        first of all Constructor method call and then Render() method call and last call ComponentDidMount() method
+                        when "html and dom" are ready or "upload" then ComponentDidMount() call
